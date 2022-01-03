@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/src/java/daos/OrderDetailsDAO.java</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/src/java/dtos/RoomDTO.java</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/src/java/controllers/CancelController.java</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/web/listOrderDetail.jsp</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/web/listOrder.jsp</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/src/java/controllers/CheckcodeController.java</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/src/java/controllers/UpdateCartController.java</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/src/java/controllers/SearchController.java</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/src/java/daos/OrderDAO.java</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/src/java/controllers/AddToCartController.java</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/src/java/utils/SendMail.java</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/src/java/controllers/EmailSendingControl.java</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/src/java/daos/RoomDAO.java</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/src/java/controllers/RegisterController.java</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/src/java/controllers/MainController.java</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/src/java/controllers/DeleteCartController.java</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/src/java/controllers/SearchController2.java</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/web/listCart.jsp</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/web/WEB-INF/web.xml</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/web/home.jsp</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/src/java/controllers/LogoutController.java</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/src/java/controllers/OrderController.java</file>
+            <file>file:/E:/NetBeansProjects/J3.L.P0021.%20The%20Hotel_Servlet%20550/web/checkout.jsp</file>
+        </group>
+    </open-files>
+</project-private>
